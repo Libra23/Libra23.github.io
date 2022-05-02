@@ -1,9 +1,9 @@
 .img {
-  position: relative;
   width: 50%;
   height: 600px;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  object-fit: cover;
+  display: block;
 }
 
 .main {

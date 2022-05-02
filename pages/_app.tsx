@@ -3,7 +3,6 @@ import '../styles/globals.css'
 import type { AppProps } from 'next/app'
 import Link from 'next/link'
 import Head from 'next/head'
-import Image from 'next/image';
 import { AppBar, Box, Button, Drawer, IconButton, List, ListItem, ListItemText, ThemeProvider, Tab, Tabs, Toolbar, Typography } from '@mui/material'
 import MenuIcon from '@mui/icons-material/Menu';
 import { theme } from '../components/theme'
@@ -38,7 +37,7 @@ function MyApp({ Component, pageProps }: AppProps) {
         <Toolbar>
           <Button>
             <Link href='/'>
-              <Image src='/favicon.ico'  alt='me' width='64' height='64' />
+              <img src='/favicon.ico'  alt='me' width='64' height='64' />
             </Link>
           </Button>
           <Typography variant="h6" sx={{ flexGrow: 1 }}>

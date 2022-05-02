@@ -1,14 +1,11 @@
 import type { NextPage } from 'next'
-import Image from 'next/image'
 import styles from '../styles/Home.module.css'
 import { Box, Card, CardContent, Divider, Table, TableBody, TableCell, TableRow, Typography } from '@mui/material'
 
 const Home: NextPage = () => {
   return (
     <Box>
-      <Box className={styles.img}>
-        <Image src='/img/home/cover.jpg' layout='fill' objectFit='cover'/>
-      </Box>
+      <img src='/img/home/cover.jpg' className={styles.img}/>
       <Box component="main" className={styles.main}>
       <Card>
         <CardContent>
