@@ -21,7 +21,7 @@ const Home: NextPage = () => {
               </TableRow>
               <TableRow>
                 <TableCell align="left">2022/03/23</TableCell>
-                <TableCell align="left">Start Kaya-Tect-Studio</TableCell>
+                <TableCell align="left">Start Kaya-Tech-Studio</TableCell>
               </TableRow>
             </TableBody>
           </Table>
