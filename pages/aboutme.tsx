@@ -19,10 +19,10 @@ const AboutMe: NextPage = () => {
           He is a robot engineer in Tokyo.
         </Box>
         <Box>
-          He was born in Okayama and raised in Oita. He received bachelor&apos;s degree from Yokohama National University and master&apos;s degree from Tokyo Institute of Technology in Mechanical Engineering.
+          He was born in Okayama and raised in Oita. He got a bachelor&apos;s degree from Yokohama National University and a master&apos;s degree from Tokyo Institute of Technology in Mechanical Engineering.
         </Box>
         <Box>
-          Since april 2020, He begin working at a surgical robot maker as an embeded and control engineer.
+          He has worked at a surgical robotics company as an embeded and control engineer since april 2020.
         </Box>
         <br />
         <Typography variant="h4">
