@@ -30,13 +30,14 @@ const AboutMe: NextPage = () => {
         </Typography>
         <Divider />
         <ul>
-          <li>C, C++, Python</li>
+          <li>C, C++, Jave, Python</li>
           <li>CMake</li>
           <li>ROS</li>
           <li>FreeRTOS</li>
           <li>SolidWorks, Fusion360</li>
           <li>Eagle</li>
           <li>Force Reflecting Bilateral Control</li>
+          <li>Leather Craft using a Laser Cutter</li>
         </ul>
       </Box>
     </Box>
