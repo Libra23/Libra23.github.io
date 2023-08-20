@@ -3,7 +3,7 @@ import Link from 'next/link'
 import { Box, List, ListItem, ListItemButton, ListItemIcon, ListItemText, Typography } from '@mui/material'
 import WebIcon from '@mui/icons-material/Web';
 import styles from '../../styles/Blog.module.css'
-//import {getFilePath} from '../../scripts/api'
+import {getFilePath} from '../../scripts/api'
 
 const Home: NextPage = () => {
   return (

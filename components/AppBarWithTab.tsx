@@ -26,7 +26,7 @@ function AppBarWithTab(props: Props) {
       <Toolbar>
         <Button>
           <Link href='/'>
-            <img src='/favicon.ico' width='64' height='64' alt='logo' />
+            <img src='/favicon.ico'  alt='me' width='64' height='64' />
           </Link>
         </Button>
         <Typography variant="h6" sx={{ flexGrow: 1 }}>
